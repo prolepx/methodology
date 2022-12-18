@@ -1,4 +1,4 @@
-# Footprinting 
+# FOOTPRINTING
 ### 1. Organization Information
   
 - [Web Technologies]()
